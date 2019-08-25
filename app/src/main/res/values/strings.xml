@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="send_to_firebase">Send to Firebase</string>
+    <string name="from_firebase">From Firebase</string>
+</resources>
